@@ -1,4 +1,4 @@
-# Nano
-## a new idea.
-If you found that you love indie handhelds,look no further!
-The Nano 1 is the best of its kind.
+# Hi
+I'm a young developer that likes to play Minecraft and code in python.
+
+## #FOSSistheway
