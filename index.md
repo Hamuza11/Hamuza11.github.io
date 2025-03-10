@@ -14,7 +14,6 @@ I'm a young developer experimenting with low-level programming, homebrew console
 - **Platforms**: Raspberry Pi Pico, STM32, RA4M1, Zephyr, NuttX  
 - **Interests**: Emulation, retro computing, operating systems, game development  
 
-🔗 Check out my projects and socials: [YouTube] (youtube.com/NanoGames-11a)
 
 
 ## #FOSSistheway
