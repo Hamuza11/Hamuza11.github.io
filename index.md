@@ -1,3 +1,8 @@
+---
+layout: default
+title: CMD — Cool Micro Designs
+---
+
 # CMD — Cool Micro Designs
 
 > _"No bloated code. Just cool micro designs."_
