@@ -2,7 +2,8 @@ title: "CMD — Cool Micro Designs"
 description: "No bloated code. Just cool micro designs."
 baseurl: "" # for GitHub Pages root repo
 url: "https://hamuza11.github.io"
-remote_theme: chrisrhymes/bulma-clean-theme@0.14.0
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 navigation: navigation
 force_theme: dark
 theme_color: "#0d1117"
