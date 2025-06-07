@@ -1,38 +1,15 @@
 title: "CMD — Cool Micro Designs"
 description: "No bloated code. Just cool micro designs."
-baseurl: "" # Leave blank unless you're using a custom subpath
-url: "https://hamuza11.github.io" # Replace with your GitHub Pages URL
-
-# Theme (clean)
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-
-# GitHub Pages settings
-markdown: kramdown
-highlighter: rouge
-
-# Enforce dark mode
+baseurl: "" # for GitHub Pages root repo
+url: "https://hamuza11.github.io"
+remote_theme: chrisrhymes/bulma-clean-theme@0.14.0
+navigation: navigation
 force_theme: dark
-
-# Optional: Set the theme color for browsers
 theme_color: "#0d1117"
 
-# Author info (optional)
 author:
   name: "Hamza"
-  email: "hamuza11@outlook.com"
 
-# Social links (optional)
-social_links:
-  youtube: https://youtube.com/@404CNFShorts
-  github: https://github.com/Hamuza11
-
-# Extra options
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Exclude these from build
-exclude:
-  - README.md
-  - LICENSE
-  - "*.psd"
