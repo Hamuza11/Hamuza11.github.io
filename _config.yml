@@ -3,15 +3,18 @@ description: "No bloated code. Just cool micro designs."
 baseurl: "" # Leave blank unless you're using a custom subpath
 url: "https://hamuza11.github.io" # Replace with your GitHub Pages URL
 
-# Theme (clean & terminal-style)
-#theme: jekyll-theme-hacker
-
-# With GitHub Pages Gem
+# Theme (clean)
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 # GitHub Pages settings
 markdown: kramdown
 highlighter: rouge
+
+# Enforce dark mode
+force_theme: dark
+
+# Optional: Set the theme color for browsers
+theme_color: "#0d1117"
 
 # Author info (optional)
 author:
