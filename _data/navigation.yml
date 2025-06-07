@@ -1,0 +1,13 @@
+- name: Home
+  link: /
+- name: Projects
+  link: /projects/
+- name: Blog
+  link: /blog/
+  dropdown:
+    - name: Microcontroller OS
+      link: /blog/microcontroller-os/
+    - name: DIY Gadgets
+      link: /blog/diy-gadgets/
+- name: About
+  link: /about/
