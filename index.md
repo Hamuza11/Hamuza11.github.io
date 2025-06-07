@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CMD — Cool Micro Designs
+permalink: /
 ---
 
 # CMD — Cool Micro Designs
