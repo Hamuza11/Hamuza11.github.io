@@ -1,5 +1,5 @@
-title: "CMD — Cool Micro Designs"
-description: "No bloated code. Just cool micro designs."
+title: "CMD — Coole Micro Designs"
+description: "Kein aufgeblähter Code. Nur coole Micro-Designs."
 baseurl: "" # for GitHub Pages root repo
 url: "https://hamuza11.github.io"
 # With GitHub Pages Gem
@@ -9,9 +9,30 @@ force_theme: dark
 theme_color: "#0d1117"
 permalink: pretty
 
+lang: de
+locale: de_DE
+
 author:
   name: "Hamza"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: de
+      layout: default
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      lang: de
+
+seo:
+  title: "CMD — Coole Micro Designs"
+  description: "Kein aufgeblähter Code. Nur coole Micro-Designs."
+  locale: de_DE

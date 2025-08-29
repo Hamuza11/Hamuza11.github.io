@@ -6,9 +6,14 @@ permalink: /blog/
 
 # CMD Blog
 
-Welcome to the CMD devlog! Here's where I post updates, rants, behind-the-scenes, and sometimes tutorials.
+Willkommen im CMD‑Devlog! Hier teile ich Updates, Einblicke hinter die Kulissen und gelegentlich Tutorials.
 
-## Latest Posts
+## Neueste Beiträge
 
-- [📦 Building ASM OS from Scratch](/blog/microcontroller-os/)
-- [🛠️ How I Make and Sell My Handheld Consoles](/blog/diy-gadgets/)
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+  {% if post.excerpt %}
+  
+  {{ post.excerpt | strip_html | strip_newlines }}
+  {% endif %}
+{% endfor %}
