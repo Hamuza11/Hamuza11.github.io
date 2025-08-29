@@ -5,4 +5,6 @@
 - name: Über
   link: /about/
 - name: Spielstudio
-  link: /spielstudio/
+  link: /
+- name: English
+  link: /en/
