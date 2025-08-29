@@ -1,5 +1,6 @@
-title: "CMD — Coole Micro Designs"
-description: "Kein aufgeblähter Code. Nur coole Micro-Designs."
+ cursor/website-enhancement-with-german-translation-and-blog-a4a5
+title: "Hamza's Spielstudio"
+description: "Spiele & Apps für alle Plattformen. Schnell. Fair."
 baseurl: "" # for GitHub Pages root repo
 url: "https://hamuza11.github.io"
 # With GitHub Pages Gem
@@ -31,6 +32,14 @@ defaults:
     values:
       layout: post
       lang: de
+ cursor/website-enhancement-with-german-translation-and-blog-a4a5
+  - scope:
+      path: "en"
+    values:
+      lang: en
+      locale: en_US
+      navigation: navigation_en
+
 
 seo:
   title: "CMD — Coole Micro Designs"
