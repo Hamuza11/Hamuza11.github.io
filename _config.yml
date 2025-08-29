@@ -31,7 +31,6 @@ defaults:
     values:
       layout: post
       lang: de
- cursor/website-enhancement-with-german-translation-and-blog-a4a5
   - scope:
       path: "en"
     values:
