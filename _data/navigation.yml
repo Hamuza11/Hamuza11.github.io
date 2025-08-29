@@ -1,11 +1,8 @@
-- name: Projects
+- name: Projekte
   link: /projects/
 - name: Blog
   link: /blog/
-  dropdown:
-    - name: Microcontroller OS
-      link: /blog/microcontroller-os/
-    - name: DIY Gadgets
-      link: /blog/diy-gadgets/
-- name: About
+- name: Über
   link: /about/
+- name: Spielstudio
+  link: /spielstudio/

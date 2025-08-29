@@ -1,60 +1,60 @@
 ---
 layout: default
-title: Projects
+title: Projekte
 permalink: /projects/
 ---
 
-# Projects
+# Projekte
 
-CMD is where raw hardware meets clean code. Here are some of the coolest things I’ve built:
+CMD ist der Ort, an dem rohe Hardware auf sauberen Code trifft. Hier sind ein paar der coolsten Projekte:
 
 ---
 
-### 🔧 ASM OS (Alternative System for Microcontrollers) *(WIP)*
+### 🔧 ASM OS (Alternative System for Microcontrollers) (WIP)
 
-> A MicroPython-powered OS kernel with a GUI and app system — no host PC required.
+> Ein MicroPython‑basiertes OS mit GUI und App‑System — kein Host‑PC nötig.
 
-- Written 100% in MicroPython
-- Touchscreen UI support (ST7789 + XPT2046)
-- Built-in apps: terminal, setup, file manager
+- 100 % in MicroPython geschrieben
+- Touch‑UI‑Support (ST7789 + XPT2046)
+- Eingebaute Apps: Terminal, Setup, Dateimanager
 
 ---
 
 ### 📦 PicoDOS
 
-> My take on an MS-DOS-style OS for the RP2040, with blue installer vibes.
+> Mein MS‑DOS‑inspiriertes OS für den RP2040 — mit blauen Installer‑Vibes.
 
-- Boot menu, basic shell, FAT-style command structure
-- Designed to look and feel like retro 80s software
+- Boot‑Menü, einfache Shell, FAT‑ähnliche Struktur
+- Design im Retro‑Look der 80er
 
 ---
 
 ### 🎮 Gamer2040
 
-> A DIY handheld running RP2040 and custom-made games.
+> Ein DIY‑Handheld mit RP2040 und eigenen Spielen.
 
-- Uses ST7789 display, custom buttons
-- Compatible with YouMakeTech games
-- Made for friends to actually *play*
+- ST7789‑Display, eigene Buttons
+- Kompatibel mit YouMakeTech‑Spielen
+- Gemacht, damit Freund:innen wirklich spielen
 
 ---
 
 ### 🌐 uPB (MicroPython Browser)
 
-> A MicroPython JSON API-based browser for microcontroller UIs.
+> Ein MicroPython‑JSON‑API‑Browser für Mikrocontroller‑UIs.
 
-- Minimal HTML-like tags, JSON-based rendering
-- Can browse simple pages on a local device or LAN
-
----
-
-### 📊 MPsheet *(WIP)*
-
-> A basic spreadsheet written in MicroPython for touchscreens.
-
-- Supports cell editing, navigation, and values
-- Great for school projects or simple data logs
+- Minimalistische HTML‑ähnliche Tags, JSON‑Rendering
+- Kann einfache Seiten lokal oder im LAN anzeigen
 
 ---
 
-More coming soon. Got ideas? Hit me up on GitHub!
+### 📊 MPsheet (WIP)
+
+> Eine einfache Tabellenkalkulation in MicroPython für Touchscreens.
+
+- Zellen bearbeiten, navigieren, Werte
+- Perfekt für Schulprojekte oder Daten‑Logs
+
+---
+
+Mehr kommt bald. Ideen? Schreib mir auf GitHub!

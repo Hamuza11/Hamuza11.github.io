@@ -1,33 +1,33 @@
 ---
 layout: default
-title: About
+title: Über
 permalink: /about/
 ---
 
-# About CMD
+# Über CMD
 
-Welcome to **CMD — Cool Micro Designs**, a tech lab by Hamza, a 12-year-old programming genius from Oldenburg, Germany.
+Willkommen bei **CMD — Coole Micro Designs**, einem Tech‑Lab von Hamza, einem 12‑jährigen Programmier‑Genie aus Oldenburg.
 
-CMD is all about:
+CMD steht für:
 
-- Building **bare-metal operating systems** like ASM OS and PicoDOS
-- Designing **custom handheld consoles**
-- Developing **Python and MicroPython tools** for real-world microcontrollers
-- Making electronics accessible and fun for Gen Z + Gen Alpha devs
-
----
-
-## 👨‍💻 Who’s Behind CMD?
-
-Hey, I'm **Hamza** — tech geek, dev, and content creator. I make homebrew consoles, write my own kernels, and experiment with anything embedded or low-level. While other kids play Brawl Stars, I build micro-GUIs.
-
-I started CMD to share my creations with the world, and maybe help other young devs get into microcontroller magic.
+- Aufbau von **Bare‑Metal‑Betriebssystemen** wie ASM OS und PicoDOS
+- Design von **eigenen Handheld‑Konsolen**
+- Entwicklung von **Python‑ und MicroPython‑Tools** für echte Mikrocontroller
+- Elektronik für Gen Z + Gen Alpha zugänglich und spaßig machen
 
 ---
 
-## 📺 Where to Find Me
+## 👨‍💻 Wer steckt hinter CMD?
+
+Hey, ich bin **Hamza** — Tech‑Nerd, Entwickler und Creator. Ich baue Homebrew‑Konsolen, schreibe eigene Kernel und experimentiere mit allem Embedded‑ oder Low‑Level‑Zeug. Während andere Brawl Stars zocken, baue ich Micro‑GUIs.
+
+Ich habe CMD gegründet, um meine Projekte zu teilen und vielleicht anderen jungen Devs den Einstieg in die Mikrocontroller‑Magie zu erleichtern.
+
+---
+
+## 📺 Wo du mich findest
 
 - [YouTube: 404: Childhood Not Found](https://youtube.com/@404CNFShorts)
 - [GitHub](https://github.com/Hamuza11)
-- [Oldenburg, Germany](https://en.wikipedia.org/wiki/Oldenburg)
+- [Oldenburg, Deutschland](https://de.wikipedia.org/wiki/Oldenburg)
 

@@ -1,72 +1,72 @@
 ---
 layout: default
-title: CMD — Cool Micro Designs
+title: CMD — Coole Micro Designs
 permalink: /
 ---
 
-# CMD — Cool Micro Designs
+# CMD — Coole Micro Designs
 
-> _"No bloated code. Just cool micro designs."_
-
----
-
-## 💻 What is CMD?
-
-**CMD (Cool Micro Designs)** is a Gen Z-powered tech lab focused on microcontrollers, DIY electronics, and operating systems — built from scratch, with style.
-
-We're not about corporate bloat, overkill frameworks, or 200 MB "Hello Worlds."  
-We're about *raw control*, *tiny binaries*, and *cool ideas that actually run on a Pico*.
-
-From OS kernels in MicroPython to homemade consoles and custom GUIs — we make the stuff we wish existed.
+> _"Kein aufgeblähter Code. Nur coole Micro-Designs."_
 
 ---
 
-## 🔧 What We Build
+## 💻 Was ist CMD?
 
-- **Microcontroller Operating Systems**  
-  From `PicoDOS` to `ASM`, CMD crafts lightweight, fast, and unique systems for RP2040 and beyond.
+**CMD (Coole Micro Designs)** ist ein Tech-Lab von Gen Z mit Fokus auf Mikrocontroller, DIY‑Elektronik und Betriebssysteme — von Grund auf gebaut, mit Style.
 
-- **Custom Hardware Designs**  
-  Game consoles, coding handhelds, and other hacker-friendly gear, designed for fun + learning.
+Wir stehen nicht auf Firmen‑Bloat, Overkill‑Frameworks oder 200‑MB‑„Hello Worlds“.  
+Wir stehen für volle Kontrolle, winzige Binaries und coole Ideen, die wirklich auf dem Pico laufen.
 
-- **Open Source Tools**  
-  JSON-based browsers, Python spreadsheets, homebrew launchers — all optimized for simplicity.
-
-- **Retro + Terminal Aesthetic**  
-  Everything we make has a vibe: command-line feels, pixel fonts, and that old-school hacker energy.
+Von OS‑Kernen in MicroPython über selbstgebaute Konsolen und eigene GUIs — wir bauen das, was wir uns immer gewünscht haben.
 
 ---
 
-## 🧠 Our Mission
+## 🔧 Was wir bauen
 
-> Build the future of micro tech — simple, hackable, and fun.
+- **Betriebssysteme für Mikrocontroller**  
+  Von `PicoDOS` bis `ASM`: leicht, schnell, besonders — für RP2040 & Co.
 
-We’re here to:
-- Inspire the next generation of coders and tinkerers
-- Challenge bloated software with minimal, functional tools
-- Keep learning by building something weird every day
+- **Eigene Hardware‑Designs**  
+  Spielkonsolen, Coding‑Handhelds und anderes Hacker‑taugliches Gear — für Spaß und Lernen.
 
-No gatekeeping. No BS. Just cool micro designs.
+- **Open‑Source‑Tools**  
+  JSON‑Browser, Python‑Tabellen, Homebrew‑Launcher — alles auf Einfachheit optimiert.
 
----
-
-## 🧒 Made by a Kid. Not Kidding.
-
-CMD is run by **Hamza**, a 12-year-old programming genius from Oldenburg, Germany.  
-He's already built operating systems, GPU drivers, and more — all before turning 13.
-
-Why? Because tech should be fun again.
+- **Retro‑ & Terminal‑Ästhetik**  
+  Command‑Line‑Vibes, Pixel‑Fonts und dieser Oldschool‑Hacker‑Energie.
 
 ---
 
-## 🚀 Want to Join or Follow?
+## 🧠 Unsere Mission
 
-Whether you're a dev, a nerd, or just CMD-curious:
-- Check out our [GitHub](https://github.com/Hamuza11)  
-- Follow the journey on [YouTube](https://www.youtube.com/@404CNFShorts)  
-- Or just clone a repo and start hacking
+> Die Zukunft der Mikro‑Tech bauen — simpel, hackbar, spaßig.
+
+Wir wollen:
+- Die nächste Generation Coder:innen inspirieren
+- Aufgeblähtes Software‑Denken mit minimalen, funktionalen Tools herausfordern
+- Täglich lernen, indem wir etwas Verrücktes bauen
+
+Kein Gatekeeping. Kein Bullshit. Nur coole Micro‑Designs.
 
 ---
 
-> _CMD is powered by creativity, caffeine-free hype, and zero dependencies._
+## 🧒 Von einem Kind gebaut. Kein Witz.
+
+CMD wird von **Hamza** betrieben, einem 12‑jährigen Programmier‑Genie aus Oldenburg.  
+Er hat schon Betriebssysteme, GPU‑Treiber und mehr gebaut — noch vor seinem 13. Geburtstag.
+
+Warum? Weil Tech wieder Spaß machen soll.
+
+---
+
+## 🚀 Mitmachen oder Folgen?
+
+Egal ob Dev, Nerd oder einfach CMD‑curious:
+- Schau auf [GitHub](https://github.com/Hamuza11) vorbei  
+- Folge der Reise auf [YouTube](https://www.youtube.com/@404CNFShorts)  
+- Oder klone ein Repo und leg los
+
+---
+
+> _CMD lebt von Kreativität, Hype ohne Koffein und null Abhängigkeiten._
 
