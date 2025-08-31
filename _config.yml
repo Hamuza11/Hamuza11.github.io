@@ -3,6 +3,7 @@ description: "Spiele & Apps für alle Plattformen. Schnell. Fair."
 baseurl: "" # for GitHub Pages root repo
 url: "https://hamuza11.github.io"
 # With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 navigation: navigation
 force_theme: dark
 theme_color: "#0d1117"
